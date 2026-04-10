@@ -1,0 +1,12 @@
+{
+  "name": "invitacion-cycling-viaaqua",
+  "version": "1.0.0",
+  "description": "Invitación para la primera juntada 2026 del grupo Cycling ViaAqua",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "vercel": "^50.43.0"
+  }
+}
